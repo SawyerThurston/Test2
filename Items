@@ -1,0 +1,4 @@
+var itemCost = function (price) {
+console.log(price*5);
+};
+itemCost(10);
